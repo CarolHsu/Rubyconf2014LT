@@ -295,3 +295,5 @@ New: http://```domain```/_**URI**_
 
 
 _**http://carolHsu/rubyconf2014LT**_
+
+_**http://www.slideshare.net/hsuc12/how-to-deploy-your-rails-application-on-windows**_
