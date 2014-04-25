@@ -173,3 +173,123 @@ Checkout ISAPI
 
 ![original 200% inline](img/ISAPI.png)
 
+---
+
+### Plan B
+## Put it under IIS 6
+
+Put the "_**public**_" folder under IIS 6
+[Setting its URI]
+
+And adding an _**IIRF.ini**_ (config), it suppports regex
+
+
+---
+
+### Plan B
+## Put it under IIS 6
+
+Put the "_**public**_" folder under IIS 6
+[Setting its URI]
+
+And adding an _**IIRF.ini**_ (config), it suppports regex
+
+### Example
+
+```
+RewriteLog AppPath\log\iirf.log
+
+ProxyPass ^/(.*)$      http://localhost:3000/$1 [I]
+```
+
+
+---
+
+### Plan B
+## However you get a nacked website
+
+
+Cause the _**URI**_ path, asset pipeline can't be the default path now.
+
+
+
+---
+
+### Plan B
+## However you get a nacked website
+
+
+Cause the _**URI**_ path, asset pipeline can't be the default path now.
+
+
+### Solution
+
+Also put the "_**assets**_" folder under IIS 6 
+
+Original: http://```domain```
+
+New: http://```domain```/_**URI**_
+
+
+---
+
+### Plan B
+## Review our action
+
+1. Install _**RubyInstaller**_
+
+---
+
+### Plan B
+## Review our action
+
+1. Install _**RubyInstaller**_
+2. Install _**gem**_ & _**bundler**_ 
+
+
+---
+
+### Plan B
+## Review our action
+
+1. Install _**RubyInstaller**_
+2. Install _**gem**_ & _**bundler**_ 
+3. Install _**IIRF 2.1**_
+
+---
+
+### Plan B
+## Review our action
+
+1. Install _**RubyInstaller**_
+2. Install _**gem**_ & _**bundler**_ 
+3. Install _**IIRF 2.1**_
+4. Put on IIS
+
+
+---
+
+### Plan B
+## Review our action
+
+1. Install _**RubyInstaller**_
+2. Install _**gem**_ & _**bundler**_ 
+3. Install _**IIRF 2.1**_
+4. Put on IIS
+5. Add _**public/iirf.ini**_
+
+---
+
+## You just need to
+## click "next"
+
+
+![200% original](img/microsoft.jpg)
+
+---
+
+
+# Thanks.
+
+## Download this slide 
+## @ Github
