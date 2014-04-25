@@ -291,9 +291,12 @@ New: http://```domain```/_**URI**_
 
 # Thanks.
 
-## Download this slide 
+## Download this slides
 
 
-_**http://carolHsu/rubyconf2014LT**_
+Clone from Github: 
+_**https://github.com/CarolHsu/Rubyconf2014LT**_
 
+
+Or Your can find my slideshare:
 _**http://www.slideshare.net/hsuc12/how-to-deploy-your-rails-application-on-windows**_
