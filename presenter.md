@@ -292,4 +292,6 @@ New: http://```domain```/_**URI**_
 # Thanks.
 
 ## Download this slide 
-## @ Github
+
+
+_**http://carolHsu/rubyconf2014LT**_
