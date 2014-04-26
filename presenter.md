@@ -257,7 +257,7 @@ ProxyPass ^/(.*)$      http://localhost:3000/$1 [I]
 ## Review our action
 
 1. Install _**RailsInstaller**_
-2. Install _**bundler**_ & _**gem**_ 
+2. Install _**bundler**_ & _**gem**_
 
 ^ then install bundler and dependent gems
 
@@ -267,7 +267,7 @@ ProxyPass ^/(.*)$      http://localhost:3000/$1 [I]
 ## Review our action
 
 1. Install _**RailsInstaller**_
-2. Install _**bundler**_ & _**gem**_ 
+2. Install _**bundler**_ & _**gem**_
 3. Install _**IIRF 2.1**_
 
 ^ then we install IIRF 2.1
@@ -278,7 +278,7 @@ ProxyPass ^/(.*)$      http://localhost:3000/$1 [I]
 ## Review our action
 
 1. Install _**RailsInstaller**_
-2. Install _**bundler**_ & _**gem**_ 
+2. Install _**bundler**_ & _**gem**_
 3. Install _**IIRF 2.1**_
 4. Put on IIS
 
@@ -290,7 +290,7 @@ ProxyPass ^/(.*)$      http://localhost:3000/$1 [I]
 ## Review our action
 
 1. Install _**RailsInstaller**_
-2. Install _**bundler**_ & _**gem**_ 
+2. Install _**bundler**_ & _**gem**_
 3. Install _**IIRF 2.1**_
 4. Put on IIS
 5. Add _**public/iirf.ini**_
@@ -305,7 +305,7 @@ ProxyPass ^/(.*)$      http://localhost:3000/$1 [I]
 ## Download this slides
 
 
-Clone from Github: 
+Clone from Github:
 _**https://github.com/CarolHsu/Rubyconf2014LT**_
 
 
